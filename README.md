@@ -48,7 +48,6 @@ O objetivo é transformar o estudo em uma experiência divertida, personalizada 
 
 ## ✅ Implementadas
 
-- Login Google
 - Dashboard
 - Sistema de Usuários
 - Estrutura Premium
